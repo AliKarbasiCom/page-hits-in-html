@@ -5,4 +5,4 @@ Use the following scripts to count page hits:
 
 only counts page hits:  <script type="text/javascript" src="hits.php"></script>
 
-counts and show page hits:  <script type="text/javascript" src="hitsview.php"></script>
+counts and shows page hits:  <script type="text/javascript" src="hitsview.php"></script>
